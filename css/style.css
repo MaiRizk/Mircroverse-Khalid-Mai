@@ -3,17 +3,23 @@
       background-color: lightblue;
     }
   }
+ 
 
-  .welcome {
-      height: 100px;
+  .welcome-section {
+    background-color: aqua;
+      height: 100vh;
   }
   
 
   .projects {
-    height: 100px;
+    background-color: blue;
+    height: 100vh;
   }
 
   .nav {
+    target="_self";
+    text-align: right;
+    height: 50px;
     position: fixed;
     top: 0;
     width: 100%;
