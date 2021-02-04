@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  .welcome {
+      height: 100px;
+  }
+  
+
+  .projects {
+    height: 100px;
+  }
+
+  .nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: pink;
+  }
